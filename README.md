@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there, I'm leepb-ai 👋
+
+### 🎓 Academic Journey
+- **Major:** Mathematics
+- **Current Goal:** 4.0 GPA for 2026 Academic Year
+- **Target:** MIT Transfer (Class of 2027/2028)
+
+### 🚀 The "Massive Project"
+I am currently developing a healthcare communication system app , a project focused on reducing workload on medical staff. This repository serves as a technical log of my architectural decisions and mathematical proofs.
+
+### 🛠 Tech Stack & Skills
+- **Languages:** [python]
+- **Focus Areas:** Discrete Math, Binary Logic, Data Structures
+- **Current Studies:** Cambridge AS/A Level Computer Science (Langfield & Duddell)
+
+### 📈 Transfer Milestones
+- [x] Establish Public Portfolio (Feb 2026)
+- [ ] Complete Project Architecture Design
+- [ ] Achieve 4.0 Semester GPA
 
 <!--
 **leepb-ai/leepb-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
