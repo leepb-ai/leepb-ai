@@ -6,7 +6,7 @@
 - **Target:** MIT Transfer (Class of 2027/2028)
 
 ### 🚀 The "Massive Project"
-I am currently developing a healthcare communication system app , a project focused on reducing workload on medical staff. This repository serves as a technical log of my architectural decisions and mathematical proofs.
+I am currently building projects that work based on mathematical concepts. This repository serves as a technical log of my architectural decisions and mathematical proofs.
 
 ### 🛠 Tech Stack & Skills
 - **Languages:** [python]
